@@ -2,6 +2,10 @@
     "title": "Agency",
     "name": "startbootstrap-agency",
     "version": "5.0.3",
+    "main": "index.js",
+    "scripts": {
+        "start": "node ./index.js"
+    },
     "description": "Agency is a one page HTML theme for Bootstrap.",
     "keywords": [
         "css",
@@ -29,7 +33,8 @@
         "@fortawesome/fontawesome-free": "5.6.3",
         "bootstrap": "4.2.1",
         "jquery": "3.3.1",
-        "jquery.easing": "^1.4.1"
+        "jquery.easing": "^1.4.1",
+        "express": "^4.16.4"
     },
     "devDependencies": {
         "browser-sync": "2.26.3",
