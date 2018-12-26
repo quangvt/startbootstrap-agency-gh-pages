@@ -5,7 +5,7 @@
     "description": "Agency is a one page HTML theme for Bootstrap.",
     "main": "index.js",
     "scripts": {
-      "start": "node index.js"
+        "start": "node index.js"
     },
     "keywords": [
         "css",
